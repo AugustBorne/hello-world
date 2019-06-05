@@ -1,0 +1,105 @@
+<HTML><HEAD>
+<TITLE>How To Read Tablature (Tabs)</TITLE>
+</HEAD>
+<BODY TEXT="#FFFFFF" BGCOLOR="#000000" LINK="#3131CE" VLINK="#FF0000" ALINK="#639C9C">
+<PRE>
+<CENTER><B><FONT SIZE=6><FONT COLOR="#FF0000">How To Read Tablature (Tabs)</FONT></B>
+
+<img src="http://forego.pclink.com/cgi-bin/counter.cgi?ft=2&dd=B&df=howtotab.dat" align=absmiddle>
+</CENTER>
+<HR>
+To read TAB, you need to imagine that you are looking at your guitar sitting in your
+lap, with its head and neck to your left, and the sound hole and end at your right.
+As you look down at your guitar, this is how TAB is played and written.  Below is 
+how a G major chord would look then:
+
+G (G major)
+
+---3---     1st string  (bottom string, thinnest string)
+---0---     2nd string
+---0---     3rd string
+---0---     4th string
+---2---     5th string
+---3---     6th string (top string, thickest string)
+
+The number on the string indicates what fret you should be playing.  0 means open 
+OR unfretted (I'll explain later.)  Here are 2 other chords:
+
+E (E major)
+
+---0---
+---0---
+---1---
+---2---
+---2---
+---0---
+
+D (D major)
+
+---2---
+---3---
+---2---
+---0---
+---x---
+---x---
+
+Notice that in the D chord there are 2 letter x.  This indicates that those two strings
+(strings 5 and 6) are not played.  
+
+There are other symbols as well:
+
+---4-s-6---	The s means SLIDE.  Strum the string on the 4th fret, then move 
+			up to the 6th fret.  You can SLIDE down as well, which would 
+			look like:
+
+						---6-s-4---
+
+---4-h-6---	The h means HAMMER ON.  Strum the string on the 4th fret, 
+			then place a different finger on the 6th fret without strumming
+			again.
+
+---6-h-4---	The p means PULL OFF.  Before playing a note here, you need 
+			one finger on the 4th fret and one on the 6th fret.  Play the note 
+			on the 6th fret, then quickly release that finger, thus leaving the 
+			4th fret fretted with your other finger.
+
+<HR>
+<FONT SIZE=5><B><FONT COLOR="#FF0000">Using A Capo</FONT></B></FONT>
+
+Many songs require the use of a CAPO like the GIPSY KINGS' "Montaña":
+
+(Capo on 2)
+
+<I>Intro:</I>
+
+             Amaj7                                              D
+-------------(2)-----------------------------------------
+-----5------(2)-------3--h--5--p--3--p--2--------3--
+2-----------(2)---------------------------------2----2--
+2-----------(2)--------------------------------------4--
+------------(4)---------------------------------------5--
+5-----------(5)------------------------------------------
+
+           F#m                    E7                        <FONT COLOR="#FFFF00"><BLINK>Amaj7</BLINK></FONT>
+-------------------------------4---------------------2----
+2---------2-------------------3---------------------2----
+----------2--------2----------4-------4------------2----
+----------4-------------------2---------------------2-----
+----------4------------------------------------------4----
+----------2------------------------------------------5----
+
+Since the capo is on the 2nd fret, it thus means that you play any note on the 2nd fret 'open', 
+that it, unfretted.  Note the <FONT COLOR="#FFFF00"><BLINK>Amaj7</BLINK></FONT>   chord above.  When playing it, you are only then be fretting 
+the 6th and 5th strings on the 5th and 4th frets respsectively.
+
+<FONT SIZE=4><FONT COLOR="#FF0000">Why do I tab this way?</FONT></FONT>
+
+	€ It makes it easier to find a fret.
+	€ The chords presented ar compatible to other instruments, including one's voice.
+	€ Each fret is ACTUALLY played where it is denoted.
+
+There is another school of thought that tabs STARTING at the capo itself.  It is primarily used in 
+Flamenco, since music patterns are much the same, except that the key changes.
+<PRE>
+</BODY>
+</HTML>
